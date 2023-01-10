@@ -32,7 +32,7 @@ I'm doing my *BEST!*
 ![AWS badge](https://img.shields.io/badge/-AWS_EC2-%23F7DF1E?style=flat-square&logo=amazonaws&logoColor=white&color=FF9900)<br>
 [BeakJoon Score] <br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fgh1937)](https://solved.ac/fgh1937)<br>
-[Worek Experience] <br>
+[Work Experience] <br>
 ![Abbott badge](https://img.shields.io/badge/-Abbott-%23F7DF1E?style=flat-square&logo=abbott&logoColor=white&color=008FC7)
 ![Abbott badge](https://img.shields.io/badge/-UK_Starbucks-%23F7DF1E?style=flat-square&logo=starbucks&logoColor=white&color=006241)
   
