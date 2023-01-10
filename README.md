@@ -12,7 +12,7 @@ I'm doing my *BEST!*
 <a href="https://eric-jongyoung.github.io/MyProfile/"><img src="https://img.shields.io/badge/-My_WebSite-%23F7DF1E?style=flat-square&logo=codenewbie&logoColor=white&color=3c679e"/></a>
 <a href="https://www.instagram.com/jong._.0/"><img src="https://img.shields.io/badge/-Instagram-%23F7DF1E?style=flat-square&logo=instagram&logoColor=white&color=E4405F"/></a>
 <a href="https://velog.io/@fgh1937"><img src="https://img.shields.io/badge/-Tech_blog-%23F7DF1E?style=flat-square&logo=velog&logoColor=white&color=20C997"/></a>
-
+<a href="[https://velog.io/@fgh1937](http://43.201.22.32:8080/)"><img src="https://img.shields.io/badge/-Jambo-%23F7DF1E?style=flat-square&logo=semantic web&logoColor=white&color=f6d954"/></a>
 
   
 ### 🛠️ Tech Stack 🛠️
@@ -24,7 +24,8 @@ I'm doing my *BEST!*
 ![HTML badge](https://img.shields.io/badge/-HTML5-%23F7DF1E?style=flat-square&logo=html5&logoColor=white&color=d1512b)
 ![CSS badge](https://img.shields.io/badge/-CSS3-%23F7DF1E?style=flat-square&logo=css3&logoColor=white&color=2b62aa)
 ![BootStrap badge](https://img.shields.io/badge/-BootStrap-%23F7DF1E?style=flat-square&logo=bootstrap&logoColor=white&color=6a45a6)
-![Thymeleaf badge](https://img.shields.io/badge/-Thymeleaf-%23F7DF1E?style=flat-square&logo=thymeleaf&logoColor=white&color=005F0F)<br>
+![Thymeleaf badge](https://img.shields.io/badge/-Thymeleaf-%23F7DF1E?style=flat-square&logo=thymeleaf&logoColor=white&color=005F0F)
+![jQuery badge](https://img.shields.io/badge/-jQuery-%23F7DF1E?style=flat-square&logo=jquery&logoColor=white&color=0769AD)<br>
 [Back end & DB]<br>
 ![spring badge](https://img.shields.io/badge/-Spring-%23F7DF1E?style=flat-square&logo=spring&logoColor=white&color=94c42b)
 ![oracle badge](https://img.shields.io/badge/-Oracle-%23F7DF1E?style=flat-square&logo=oracle&logoColor=white&color=e62e18)<br>
