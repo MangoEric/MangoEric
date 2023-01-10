@@ -61,9 +61,7 @@ I always do my *BEST!*
   
 <a href="mailto:fgh1937@gmail.com"><img src="https://img.shields.io/badge/-gmail-%23F7DF1E?style=flat-square&logo=gmail&logoColor=white&color=EA4335"/></a>
 <a href="https://www.instagram.com/jong._.0/"><img src="https://img.shields.io/badge/-DM-%23F7DF1E?style=flat-square&logo=instagram&logoColor=white&color=E4405F"/></a>
-   <a href="https://solved.ac/profile/fgh1937">
-  <img align="right" src="https://camo.githubusercontent.com/8059929920dcbba8c47d8ed320606efcbbf6070b6f1ea24daf731c2ec971bfd4/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d66676831393337" alt="Solved.ac 프로필" data-canonical-src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fgh1937" style="max-width: 100%;">
-  </a> 
+  
 
 <p>
 
@@ -72,3 +70,6 @@ I always do my *BEST!*
  </p>
 
  </div>
+  <a href="https://solved.ac/profile/fgh1937">
+  <img align="right" src="https://camo.githubusercontent.com/8059929920dcbba8c47d8ed320606efcbbf6070b6f1ea24daf731c2ec971bfd4/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d66676831393337" alt="Solved.ac 프로필" data-canonical-src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fgh1937" style="max-width: 100%;">
+  </a> 
