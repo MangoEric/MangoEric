@@ -4,8 +4,8 @@
 
  
 ### 👋 Hi I'm JongYoung 👋
-My major is Microbiology.<br> But, I am studying web development.<br>
-I'm doing my *BEST!*
+I am studying web development.<br>
+I always do my *BEST!*
   
 ### 🥰 My Pages 🥰
   
@@ -30,6 +30,7 @@ I'm doing my *BEST!*
 [Back end & DB]<br>
 ![spring badge](https://img.shields.io/badge/-Spring-%23F7DF1E?style=flat-square&logo=spring&logoColor=white&color=94c42b)
 ![JPA badge](https://img.shields.io/badge/-JPA-%23F7DF1E?style=flat-square&color=4e575d)
+![MyBatis badge](https://img.shields.io/badge/-MyBatis-%23F7DF1E?style=flat-square&color=b92513)
 ![oracle badge](https://img.shields.io/badge/-Oracle-%23F7DF1E?style=flat-square&logo=oracle&logoColor=white&color=e62e18)
 <br>
 [Deploy] <br>
