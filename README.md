@@ -25,7 +25,7 @@ I'm doing my *BEST!*
 ![CSS badge](https://img.shields.io/badge/-CSS3-%23F7DF1E?style=flat-square&logo=css3&logoColor=white&color=2b62aa)
 ![BootStrap badge](https://img.shields.io/badge/-BootStrap-%23F7DF1E?style=flat-square&logo=bootstrap&logoColor=white&color=6a45a6)
 ![Thymeleaf badge](https://img.shields.io/badge/-Thymeleaf-%23F7DF1E?style=flat-square&logo=thymeleaf&logoColor=white&color=005F0F)<br>
-[Back end & DB ]<br>
+[Back end & DB]<br>
 ![spring badge](https://img.shields.io/badge/-Spring-%23F7DF1E?style=flat-square&logo=spring&logoColor=white&color=94c42b)
 ![oracle badge](https://img.shields.io/badge/-Oracle-%23F7DF1E?style=flat-square&logo=oracle&logoColor=white&color=e62e18)<br>
 [Deploy] <br>
@@ -34,7 +34,7 @@ I'm doing my *BEST!*
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fgh1937)](https://solved.ac/fgh1937)<br>
 [Work Experience] <br>
 ![Abbott badge](https://img.shields.io/badge/-Abbott-%23F7DF1E?style=flat-square&logo=abbott&logoColor=white&color=008FC7)
-![Abbott badge](https://img.shields.io/badge/-UK_Starbucks-%23F7DF1E?style=flat-square&logo=starbucks&logoColor=white&color=006241)
+![Starbucks badge](https://img.shields.io/badge/-UK_Starbucks-%23F7DF1E?style=flat-square&logo=starbucks&logoColor=white&color=006241)
   
   
   
