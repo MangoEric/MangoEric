@@ -4,10 +4,8 @@
 I am studying web development.<br>
 I always do my *BEST!*
 </p>
-
 <div>
 <img width="400px" align="right" src="https://user-images.githubusercontent.com/104367020/211602351-35f26dd6-087a-4b64-a45a-fa43f9b93068.gif"/>
-
 
   ## 📄 My Pages 
   
@@ -47,7 +45,6 @@ I always do my *BEST!*
 <a href="https://solved.ac/profile/fgh1937">
   <img align="right" src="https://camo.githubusercontent.com/8059929920dcbba8c47d8ed320606efcbbf6070b6f1ea24daf731c2ec971bfd4/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d66676831393337" alt="Solved.ac 프로필" data-canonical-src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fgh1937" style="max-width: 100%;">
   </a> 
-
 </p>
 <p>
 
@@ -57,21 +54,15 @@ I always do my *BEST!*
 ![Starbucks badge](https://img.shields.io/badge/-UK_Starbucks-%23F7DF1E?style=flat-square&logo=starbucks&logoColor=white&color=006241)<br>
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fgh1937)](https://solved.ac/fgh1937) -->
 </p>
-
 <p>
 
 ## 📮 Contact Me
   
 <a href="mailto:fgh1937@gmail.com"><img src="https://img.shields.io/badge/-gmail-%23F7DF1E?style=flat-square&logo=gmail&logoColor=white&color=EA4335"/></a>
 <a href="https://www.instagram.com/jong._.0/"><img src="https://img.shields.io/badge/-DM-%23F7DF1E?style=flat-square&logo=instagram&logoColor=white&color=E4405F"/></a>
- 
-
-
 <p>
-
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEric-JongYoung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
  </p>
-
  </div>
   
