@@ -4,7 +4,7 @@
 I am studying web development.<br>
 I always do my *BEST!*
 </p>
-<img width="400px" align="right" src="https://user-images.githubusercontent.com/104367020/211591240-a5add1c9-5fd2-4585-8fef-0286b243497e.png"/>
+<img width="350px" align="right" src="https://user-images.githubusercontent.com/104367020/211591240-a5add1c9-5fd2-4585-8fef-0286b243497e.png"/>
 <div>
 <!--   <img width="400px" align="right" src="https://user-images.githubusercontent.com/104367020/211577074-a333035a-e0e1-4a4c-9ee1-f9f52273133e.png"/> -->
   
