@@ -8,7 +8,7 @@ I always do my *BEST!*
 
 
 <div>
-  <img align="right" src="https://user-images.githubusercontent.com/104367020/211577074-a333035a-e0e1-4a4c-9ee1-f9f52273133e.png"/>
+  <img width="400px" align="right" src="https://user-images.githubusercontent.com/104367020/211577074-a333035a-e0e1-4a4c-9ee1-f9f52273133e.png"/>
   
  
   
