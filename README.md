@@ -1,21 +1,26 @@
-<div align="center">
+<!-- <div align="center"> -->
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=JongYoung%20&fontSize=70)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=JongYoung%20&fontSize=70) -->
 
- 
-### 👋 Hi I'm JongYoung 👋
+<p>
+  
+## 👋 Hi I'm JongYoung 👋
 I am studying web development.<br>
 I always do my *BEST!*
-  
-### 🥰 My Pages 🥰
+</p>
+<p>
+
+## 📄 My Pages 
   
 <a href="https://eric-jongyoung.github.io/MyProfile/"><img src="https://img.shields.io/badge/-My_WebSite-%23F7DF1E?style=flat-square&logo=codenewbie&logoColor=white&color=3c679e"/></a>
 <a href="https://www.instagram.com/jong._.0/"><img src="https://img.shields.io/badge/-Instagram-%23F7DF1E?style=flat-square&logo=instagram&logoColor=white&color=E4405F"/></a>
 <a href="https://velog.io/@fgh1937"><img src="https://img.shields.io/badge/-Tech_blog-%23F7DF1E?style=flat-square&logo=velog&logoColor=white&color=20C997"/></a>
 <a href="http://43.201.22.32:8080/"><img src="https://img.shields.io/badge/-Jambo-%23F7DF1E?style=flat-square&logo=semantic web&logoColor=white&color=f6d954"/></a>
 
-  
-### 🛠️ Tech Stack 🛠️
+</p>
+<p>
+
+## 🛠️ Tech Stack 🛠️
   
 [Programming Languages] <br>
 ![java badge](https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=buymeacoffee&logoColor=white&color=3c679e)
@@ -42,17 +47,27 @@ I always do my *BEST!*
 ![maven badge](https://img.shields.io/badge/-Maven-%23F7DF1E?style=flat-square&logo=apachemaven&logoColor=white&color=C71A36)
 ![git badge](https://img.shields.io/badge/-Git-%23F7DF1E?style=flat-square&logo=git&logoColor=white&color=F05032)
 
-### 🤓 About Me 🤓
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fgh1937)](https://solved.ac/fgh1937)<br>
+</p>
+<p>
+
+## 🤓 About Me 
 [Work Experience] <br>
 ![Abbott badge](https://img.shields.io/badge/-Abbott-%23F7DF1E?style=flat-square&logo=abbott&logoColor=white&color=008FC7)
-![Starbucks badge](https://img.shields.io/badge/-UK_Starbucks-%23F7DF1E?style=flat-square&logo=starbucks&logoColor=white&color=006241)
+![Starbucks badge](https://img.shields.io/badge/-UK_Starbucks-%23F7DF1E?style=flat-square&logo=starbucks&logoColor=white&color=006241)<br>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fgh1937)](https://solved.ac/fgh1937)<br>
+</p>
+
+<p>
+
+## 📮 Contact Me
   
-  
-  
+<a href="mailto:fgh1937@gmail.com"><img src="https://img.shields.io/badge/-gmail-%23F7DF1E?style=flat-square&logo=gmail&logoColor=white&color=EA4335"/></a>
+<a href="https://www.instagram.com/jong._.0/"><img src="https://img.shields.io/badge/-DM-%23F7DF1E?style=flat-square&logo=instagram&logoColor=white&color=E4405F"/></a>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEric-JongYoung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+ </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&text=ThankYou%20&fontSize=40)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&text=ThankYou%20&fontSize=40) -->
    
-</div>
+<!-- </div> -->
