@@ -4,17 +4,17 @@
 I am studying web development.<br>
 I always do my *BEST!*
 </p>
-<img width="350px" align="right" src="https://user-images.githubusercontent.com/104367020/211591240-a5add1c9-5fd2-4585-8fef-0286b243497e.png"/>
+
 <div>
-<!--   <img width="400px" align="right" src="https://user-images.githubusercontent.com/104367020/211577074-a333035a-e0e1-4a4c-9ee1-f9f52273133e.png"/> -->
-  
+<img width="400px" align="right" src="https://user-images.githubusercontent.com/104367020/211602351-35f26dd6-087a-4b64-a45a-fa43f9b93068.gif"/>
+
+
   ## 📄 My Pages 
   
 <a href="https://eric-jongyoung.github.io/MyProfile/"><img src="https://img.shields.io/badge/-My_WebSite-%23F7DF1E?style=flat-square&logo=codenewbie&logoColor=white&color=3c679e"/></a>
 <a href="https://www.instagram.com/jong._.0/"><img src="https://img.shields.io/badge/-Instagram-%23F7DF1E?style=flat-square&logo=instagram&logoColor=white&color=E4405F"/></a>
 <a href="https://velog.io/@fgh1937"><img src="https://img.shields.io/badge/-Tech_blog-%23F7DF1E?style=flat-square&logo=velog&logoColor=white&color=20C997"/></a>
-<a href="http://43.201.22.32:8080/"><img src="https://img.shields.io/badge/-Jambo-%23F7DF1E?style=flat-square&logo=semantic web&logoColor=white&color=f6d954"/></a>
-
+<a href="http://43.201.22.32:8080/"><img src="https://img.shields.io/badge/-Jambo-%23F7DF1E?style=flat-square&logo=semantic web&logoColor=white&color=f6d954"/></a> 
 </p>
 <p>
 
@@ -44,7 +44,10 @@ I always do my *BEST!*
 ![gradle badge](https://img.shields.io/badge/-Gradle-%23F7DF1E?style=flat-square&logo=gradle&logoColor=white&color=02303A)
 ![maven badge](https://img.shields.io/badge/-Maven-%23F7DF1E?style=flat-square&logo=apachemaven&logoColor=white&color=C71A36)
 ![git badge](https://img.shields.io/badge/-Git-%23F7DF1E?style=flat-square&logo=git&logoColor=white&color=F05032)
-  
+<a href="https://solved.ac/profile/fgh1937">
+  <img align="right" src="https://camo.githubusercontent.com/8059929920dcbba8c47d8ed320606efcbbf6070b6f1ea24daf731c2ec971bfd4/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d66676831393337" alt="Solved.ac 프로필" data-canonical-src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fgh1937" style="max-width: 100%;">
+  </a> 
+
 </p>
 <p>
 
@@ -61,7 +64,8 @@ I always do my *BEST!*
   
 <a href="mailto:fgh1937@gmail.com"><img src="https://img.shields.io/badge/-gmail-%23F7DF1E?style=flat-square&logo=gmail&logoColor=white&color=EA4335"/></a>
 <a href="https://www.instagram.com/jong._.0/"><img src="https://img.shields.io/badge/-DM-%23F7DF1E?style=flat-square&logo=instagram&logoColor=white&color=E4405F"/></a>
-  
+ 
+
 
 <p>
 
@@ -70,6 +74,4 @@ I always do my *BEST!*
  </p>
 
  </div>
-  <a href="https://solved.ac/profile/fgh1937">
-  <img align="right" src="https://camo.githubusercontent.com/8059929920dcbba8c47d8ed320606efcbbf6070b6f1ea24daf731c2ec971bfd4/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d66676831393337" alt="Solved.ac 프로필" data-canonical-src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fgh1937" style="max-width: 100%;">
-  </a> 
+  
