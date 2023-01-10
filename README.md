@@ -34,7 +34,7 @@ I always do my *BEST!*
 ![oracle badge](https://img.shields.io/badge/-Oracle-%23F7DF1E?style=flat-square&logo=oracle&logoColor=white&color=e62e18)
 <br>
 [Deploy] <br>
-![AWS badge](https://img.shields.io/badge/-AWS_EC2-%23F7DF1E?style=flat-square&logo=amazonaws&logoColor=white&color=FF9900)<br>
+![AWS badge](https://img.shields.io/badge/-AWS_EC2-%23F7DF1E?style=flat-square&logo=amazonaws&logoColor=white&color=232F3E)<br>
 [Tool]<br>
 ![IntelliJ IDEA badge](https://img.shields.io/badge/-IntelliJ_IDEA-%23F7DF1E?style=flat-square&logo=intellijidea&logoColor=white&color=02303A)
 ![VSCode IDEA badge](https://img.shields.io/badge/-Visual_Studio_Code-%23F7DF1E?style=flat-square&logo=visualstudiocode&logoColor=white&color=007ACC)
