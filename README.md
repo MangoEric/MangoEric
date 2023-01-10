@@ -20,7 +20,7 @@ I'm doing my *BEST!*
 [Programming Languages] <br>
 ![java badge](https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=buymeacoffee&logoColor=white&color=3c679e)
 ![javascript badge](https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white&color=f2df3a)<br>
-[Frontend]<br>
+[Front end]<br>
 ![HTML badge](https://img.shields.io/badge/-HTML5-%23F7DF1E?style=flat-square&logo=html5&logoColor=white&color=d1512b)
 ![CSS badge](https://img.shields.io/badge/-CSS3-%23F7DF1E?style=flat-square&logo=css3&logoColor=white&color=2b62aa)
 ![BootStrap badge](https://img.shields.io/badge/-BootStrap-%23F7DF1E?style=flat-square&logo=bootstrap&logoColor=white&color=6a45a6)
