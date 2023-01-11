@@ -5,8 +5,8 @@ I am studying web development.<br>
 I always do my *BEST!*
 </p>
 <div>
-<img width="400px" align="right" src="https://user-images.githubusercontent.com/104367020/211602351-35f26dd6-087a-4b64-a45a-fa43f9b93068.gif"/>
-
+<img width="400px" align="right" src="https://user-images.githubusercontent.com/104367020/211695791-1191e49f-e7e7-4a0a-b242-660522cf9155.gif"/>
+  
   ## 📄 My Pages 
   
 <a href="https://eric-jongyoung.github.io/MyProfile/"><img src="https://img.shields.io/badge/-My_WebSite-%23F7DF1E?style=flat-square&logo=codenewbie&logoColor=white&color=3c679e"/></a>
