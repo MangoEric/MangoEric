@@ -75,7 +75,8 @@
   
  ## 🔥 Now Studying ..
  
-<!--  ![React badge](https://img.shields.io/badge/-React-%23F7DF1E?style=flat-square&logo=react&logoColor=white&color=61DAFB) -->
+ ![React badge](https://img.shields.io/badge/-React-%23F7DF1E?style=flat-square&logo=react&logoColor=white&color=61DAFB)
+ ![algorithm badge](https://img.shields.io/badge/-algorithm-%23F7DF1E?style=flat-square&color=35BDB2)
 <!--  ![spring badge](https://img.shields.io/badge/-Spring-%23F7DF1E?style=flat-square&logo=spring&logoColor=white&color=94c42b) -->
 <!-- ![JPA badge](https://img.shields.io/badge/-JPA-%23F7DF1E?style=flat-square&color=4e575d) -->
-![algorithm badge](https://img.shields.io/badge/-algorithm-%23F7DF1E?style=flat-square&color=35BDB2)
+
