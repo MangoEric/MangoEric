@@ -75,8 +75,11 @@
   
  ## 🔥 Now Studying ..
  
- ![React badge](https://img.shields.io/badge/-React-%23F7DF1E?style=flat-square&logo=react&logoColor=white&color=61DAFB)
- ![algorithm badge](https://img.shields.io/badge/-algorithm-%23F7DF1E?style=flat-square&color=35BDB2)
+  ![Svelte badge](https://img.shields.io/badge/-Svelte-%23F7DF1E?style=flat-square&logo=svelte&logoColor=white&color=FF3E00)
+  ![javascript badge](https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white&color=f2df3a)
+ 
+<!--  ![React badge](https://img.shields.io/badge/-React-%23F7DF1E?style=flat-square&logo=react&logoColor=white&color=61DAFB) -->
+<!--  ![algorithm badge](https://img.shields.io/badge/-algorithm-%23F7DF1E?style=flat-square&color=35BDB2) -->
 <!--  ![spring badge](https://img.shields.io/badge/-Spring-%23F7DF1E?style=flat-square&logo=spring&logoColor=white&color=94c42b) -->
 <!-- ![JPA badge](https://img.shields.io/badge/-JPA-%23F7DF1E?style=flat-square&color=4e575d) -->
 
