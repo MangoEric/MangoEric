@@ -12,9 +12,7 @@
 <a href="https://tidy-sign-ca6.notion.site/8340f646c1fe47b8aebd3e5dbbb42203"><img src="https://img.shields.io/badge/-Notion-%23F7DF1E?style=flat-square&logo=notion&logoColor=white&color=000000"/></a>
   
 <a href="https://www.instagram.com/jong._.0/"><img src="https://img.shields.io/badge/-Instagram-%23F7DF1E?style=flat-square&logo=instagram&logoColor=white&color=E4405F"/></a>
-<a href="https://velog.io/@fgh1937"><img src="https://img.shields.io/badge/-Tech_blog-%23F7DF1E?style=flat-square&logo=velog&logoColor=white&color=20C997"/></a>
 <a href="https://www.linkedin.com/in/jongyoung-ko"><img src="https://img.shields.io/badge/-linkedIn-%23F7DF1E?style=flat-square&logo=linkedin&logoColor=white&color=0A66C2"/></a>
-<a href="http://43.201.22.32:8080/"><img src="https://img.shields.io/badge/-Jambo-%23F7DF1E?style=flat-square&logo=semantic web&logoColor=white&color=f6d954"/></a> 
 <a href="https://just09.tistory.com/"><img src="https://img.shields.io/badge/-Blog-%23F7DF1E?style=flat-square&logo=tistory&logoColor=white&color=000000"/></a>  
   
  
