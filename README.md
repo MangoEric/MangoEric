@@ -23,9 +23,10 @@
 ## 🛠️ Tech Stack 🛠️
   
 [Programming Languages] <br>
-![java badge](https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=buymeacoffee&logoColor=white&color=3c679e)
-![javascript badge](https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white&color=f2df3a)<br>
+![javascript badge](https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white&color=f2df3a)
+![java badge](https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=buymeacoffee&logoColor=white&color=3c679e)<br>
 [Frontend]<br>
+![Svelte badge](https://img.shields.io/badge/-Svelte-%23F7DF1E?style=flat-square&logo=svelte&logoColor=white&color=FF3E00)<br>
 ![HTML badge](https://img.shields.io/badge/-HTML5-%23F7DF1E?style=flat-square&logo=html5&logoColor=white&color=d1512b)
 ![CSS badge](https://img.shields.io/badge/-CSS3-%23F7DF1E?style=flat-square&logo=css3&logoColor=white&color=2b62aa)
 ![BootStrap badge](https://img.shields.io/badge/-BootStrap-%23F7DF1E?style=flat-square&logo=bootstrap&logoColor=white&color=6a45a6)
