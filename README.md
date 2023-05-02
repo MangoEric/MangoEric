@@ -73,12 +73,14 @@
  </div>
   
  ## 🔥 Now Studying ..
-  
-   ![Vue badge](https://img.shields.io/badge/-Vue.js-%23F7DF1E?style=flat-square&logo=vuedotjs&logoColor=white&color=4FC08D)
-  ![Svelte badge](https://img.shields.io/badge/-Svelte-%23F7DF1E?style=flat-square&logo=svelte&logoColor=white&color=FF3E00)
-  ![javascript badge](https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white&color=f2df3a)
  
-<!--  ![React badge](https://img.shields.io/badge/-React-%23F7DF1E?style=flat-square&logo=react&logoColor=white&color=61DAFB) -->
+ 
+ ![typescript badge](https://img.shields.io/badge/-TypeScript-%23F7DF1E?style=flat-square&logo=typescript&logoColor=white&color=3178C6)
+ ![javascript badge](https://img.shields.io/badge/-JavaScript_ES6-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white&color=f2df3a)
+ ![React badge](https://img.shields.io/badge/-React-%23F7DF1E?style=flat-square&logo=react&logoColor=white&color=61DAFB)
+ ![Vue badge](https://img.shields.io/badge/-Vue.js-%23F7DF1E?style=flat-square&logo=vuedotjs&logoColor=white&color=4FC08D)
+
+ 
 <!--  ![algorithm badge](https://img.shields.io/badge/-algorithm-%23F7DF1E?style=flat-square&color=35BDB2) -->
 <!--  ![spring badge](https://img.shields.io/badge/-Spring-%23F7DF1E?style=flat-square&logo=spring&logoColor=white&color=94c42b) -->
 <!-- ![JPA badge](https://img.shields.io/badge/-JPA-%23F7DF1E?style=flat-square&color=4e575d) -->
