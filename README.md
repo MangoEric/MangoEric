@@ -30,7 +30,6 @@
 ![Svelte badge](https://img.shields.io/badge/-Svelte-%23F7DF1E?style=flat-square&logo=svelte&logoColor=white&color=FF3E00)<br>
 ![HTML badge](https://img.shields.io/badge/-HTML5-%23F7DF1E?style=flat-square&logo=html5&logoColor=white&color=d1512b)
 ![CSS badge](https://img.shields.io/badge/-CSS3-%23F7DF1E?style=flat-square&logo=css3&logoColor=white&color=2b62aa)
-![jQuery badge](https://img.shields.io/badge/-jQuery-%23F7DF1E?style=flat-square&logo=jquery&logoColor=white&color=0769AD)
 <br>
 [Backend]<br>
 ![spring badge](https://img.shields.io/badge/-Spring-%23F7DF1E?style=flat-square&logo=spring&logoColor=white&color=94c42b)
