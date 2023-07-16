@@ -11,9 +11,11 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GIT_TOKEN }} # 이 줄을 추가합니다.
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }} # GIT_TOKEN을 GITHUB_TOKEN 대신 사용합니다.
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
