@@ -75,9 +75,8 @@
  
  
  ![typescript badge](https://img.shields.io/badge/-TypeScript-%23F7DF1E?style=flat-square&logo=typescript&logoColor=white&color=3178C6)
- ![javascript badge](https://img.shields.io/badge/-JavaScript_ES6-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white&color=f2df3a)
+ ![Node badge](https://img.shields.io/badge/-Node_js-%23F7DF1E?style=flat-square&logo=nodedotjs&logoColor=white&color=339933)
  ![React badge](https://img.shields.io/badge/-React-%23F7DF1E?style=flat-square&logo=react&logoColor=white&color=61DAFB)
- ![Vue badge](https://img.shields.io/badge/-Vue.js-%23F7DF1E?style=flat-square&logo=vuedotjs&logoColor=white&color=4FC08D)
 
  
 <!--  ![algorithm badge](https://img.shields.io/badge/-algorithm-%23F7DF1E?style=flat-square&color=35BDB2) -->
