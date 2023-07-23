@@ -12,15 +12,15 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GIT_TOKEN }} # 이 줄을 추가합니다.
+          token: ${{ secrets.GIT_TOKEN }} 
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }} # GIT_TOKEN을 GITHUB_TOKEN 대신 사용합니다.
+          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }} 
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
           git config user.name Eric-JongYoung
           git config user.email fgh1937@yahoo.com
           git add -A .
-          git commit -m "generated"
+          git commit -m "generated 3D commit svg"
           git push
