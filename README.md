@@ -8,13 +8,12 @@
   
   ## 📄 My Pages 
   
-<a href="https://eric-jongyoung.github.io/profile/"><img src="https://img.shields.io/badge/-My_WebSite-%23F7DF1E?style=flat-square&logo=codenewbie&logoColor=white&color=3c679e"/></a>
-<a href="https://tidy-sign-ca6.notion.site/8340f646c1fe47b8aebd3e5dbbb42203"><img src="https://img.shields.io/badge/-Notion-%23F7DF1E?style=flat-square&logo=notion&logoColor=white&color=000000"/></a>
+<a href="https://eric-jongyoung.github.io/profile/"><img src="https://img.shields.io/badge/-CV(ENG)-%23F7DF1E?style=flat-square&logo=codenewbie&logoColor=white&color=3c679e"/></a>
+<a href="https://tidy-sign-ca6.notion.site/8340f646c1fe47b8aebd3e5dbbb42203"><img src="https://img.shields.io/badge/-CV(KOR)-%23F7DF1E?style=flat-square&logo=notion&logoColor=white&color=000000"/></a>
   
-<a href="https://www.instagram.com/jong._.0/"><img src="https://img.shields.io/badge/-Instagram-%23F7DF1E?style=flat-square&logo=instagram&logoColor=white&color=E4405F"/></a>
 <a href="https://www.linkedin.com/in/jongyoung-ko"><img src="https://img.shields.io/badge/-linkedIn-%23F7DF1E?style=flat-square&logo=linkedin&logoColor=white&color=0A66C2"/></a>
-<a href="https://just09.tistory.com/"><img src="https://img.shields.io/badge/-Blog-%23F7DF1E?style=flat-square&logo=tistory&logoColor=white&color=000000"/></a>  
-  
+<a href="https://just09.tistory.com/"><img src="https://img.shields.io/badge/-Blog-%23F7DF1E?style=flat-square&logo=tistory&logoColor=white&color=000000"/></a>
+<a href="https://www.instagram.com/jong._.0/"><img src="https://img.shields.io/badge/-Instagram-%23F7DF1E?style=flat-square&logo=instagram&logoColor=white&color=E4405F"/></a>  
  
   
 </p>
@@ -24,6 +23,7 @@
   
 [Programming Languages] <br>
 ![javascript badge](https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white&color=f2df3a)
+![typescript badge](https://img.shields.io/badge/-TypeScript-%23F7DF1E?style=flat-square&logo=typescript&logoColor=white&color=3178C6)
 ![java badge](https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=buymeacoffee&logoColor=white&color=3c679e)<br>
 [Frontend]<br>
 ![Vue badge](https://img.shields.io/badge/-Vue.js-%23F7DF1E?style=flat-square&logo=vuedotjs&logoColor=white&color=4FC08D)
@@ -34,6 +34,11 @@
 [Backend]<br>
 ![spring badge](https://img.shields.io/badge/-Spring-%23F7DF1E?style=flat-square&logo=spring&logoColor=white&color=94c42b)
 ![JPA badge](https://img.shields.io/badge/-JPA-%23F7DF1E?style=flat-square&color=4e575d)
+<br>
+[DB]<br>
+![Oracle badge](https://img.shields.io/badge/-Oracle-%23F7DF1E?style=flat-square&logo=oracle&logoColor=white&color=F80000)
+![MySQL badge](https://img.shields.io/badge/-MySQL-%23F7DF1E?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
+![Redis badge](https://img.shields.io/badge/-Redis-%23F7DF1E?style=flat-square&logo=redis&logoColor=white&color=DC382D)
 <br>
 [Deploy] <br>
 ![AWS badge](https://img.shields.io/badge/-AWS_EC2-%23F7DF1E?style=flat-square&logo=amazonaws&logoColor=white&color=232F3E)
