@@ -28,6 +28,7 @@
 ![java badge](https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=buymeacoffee&logoColor=white&color=3c679e)<br>
 [Frontend]<br>
 ![Vue badge](https://img.shields.io/badge/-Vue.js-%23F7DF1E?style=flat-square&logo=vuedotjs&logoColor=white&color=4FC08D)
+![React badge](https://img.shields.io/badge/-React-%23F7DF1E?style=flat-square&logo=react&logoColor=white&color=61DAFB)
 ![Svelte badge](https://img.shields.io/badge/-Svelte-%23F7DF1E?style=flat-square&logo=svelte&logoColor=white&color=FF3E00)<br>
 ![HTML badge](https://img.shields.io/badge/-HTML5-%23F7DF1E?style=flat-square&logo=html5&logoColor=white&color=d1512b)
 ![CSS badge](https://img.shields.io/badge/-CSS3-%23F7DF1E?style=flat-square&logo=css3&logoColor=white&color=2b62aa)
