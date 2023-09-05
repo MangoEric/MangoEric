@@ -24,6 +24,7 @@
 [Programming Languages] <br>
 ![javascript badge](https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white&color=f2df3a)
 ![typescript badge](https://img.shields.io/badge/-TypeScript-%23F7DF1E?style=flat-square&logo=typescript&logoColor=white&color=3178C6)
+![Elixir badge](https://img.shields.io/badge/-Elixir-%23F7DF1E?style=flat-square&logo=elixir&logoColor=white&color=4B275F)
 ![java badge](https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=buymeacoffee&logoColor=white&color=3c679e)<br>
 [Frontend]<br>
 ![Vue badge](https://img.shields.io/badge/-Vue.js-%23F7DF1E?style=flat-square&logo=vuedotjs&logoColor=white&color=4FC08D)
@@ -80,7 +81,7 @@
  
  
  ![typescript badge](https://img.shields.io/badge/-TypeScript-%23F7DF1E?style=flat-square&logo=typescript&logoColor=white&color=3178C6)
- ![Node badge](https://img.shields.io/badge/-Node_js-%23F7DF1E?style=flat-square&logo=nodedotjs&logoColor=white&color=339933)
+ ![Elixir badge](https://img.shields.io/badge/-Elixir-%23F7DF1E?style=flat-square&logo=elixir&logoColor=white&color=4B275F)
  ![React badge](https://img.shields.io/badge/-React-%23F7DF1E?style=flat-square&logo=react&logoColor=white&color=61DAFB)
 
  
