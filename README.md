@@ -5,7 +5,7 @@
   
 ### 📄 About Me
 
-<a href="https://mangoeric.github.io/profile/"><img src="https://img.shields.io/badge/-CV-%23F7DF1E?style=flat-square&logo=codenewbie&logoColor=white&color=3c679e"/></a>
+<!-- <a href="https://mangoeric.github.io/profile/"><img src="https://img.shields.io/badge/-CV-%23F7DF1E?style=flat-square&logo=codenewbie&logoColor=white&color=3c679e"/></a> -->
 <a href="https://just09.tistory.com/"><img src="https://img.shields.io/badge/-Blog-%23F7DF1E?style=flat-square&logo=tistory&logoColor=white&color=000000"/></a>
 <a href="https://www.youtube.com/@ericko2875)"><img src="https://img.shields.io/badge/-YT-%23F7DF1E?style=flat-square&logo=youtube&logoColor=white&color=FF0000"/></a>
 
