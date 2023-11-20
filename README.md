@@ -15,6 +15,7 @@
 ![typescript badge](https://img.shields.io/badge/-TypeScript-%23F7DF1E?style=flat-square&logo=typescript&logoColor=white&color=3178C6)
 ![Elixir badge](https://img.shields.io/badge/-Elixir-%23F7DF1E?style=flat-square&logo=elixir&logoColor=white&color=4B275F)<br>
 ![React badge](https://img.shields.io/badge/-React-%23F7DF1E?style=flat-square&logo=react&logoColor=white&color=61DAFB)
+![NEXTJS badge](https://img.shields.io/badge/-NEXT.js-%23F7DF1E?style=flat-square&logo=nextdotjs&logoColor=white&color=000000)
 ![Vue badge](https://img.shields.io/badge/-Vue.js-%23F7DF1E?style=flat-square&logo=vuedotjs&logoColor=white&color=4FC08D)
 ![Phoenix Framework badge](https://img.shields.io/badge/-Phoenix-%23F7DF1E?style=flat-square&logo=phoenixframework&logoColor=white&color=FD4F00)
 
