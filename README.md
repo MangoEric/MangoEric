@@ -19,3 +19,5 @@
 ![Vue badge](https://img.shields.io/badge/-Vue.js-%23F7DF1E?style=flat-square&logo=vuedotjs&logoColor=white&color=4FC08D)
 ![Phoenix Framework badge](https://img.shields.io/badge/-Phoenix-%23F7DF1E?style=flat-square&logo=phoenixframework&logoColor=white&color=FD4F00)
 
+### Contact Me 📮
+<a href="mailto:jong@mangoeric.dev"><img src="https://img.shields.io/badge/-jong@mangoeric.dev-%23F7DF1E?style=flat-square&logo=maildotru&logoColor=white&color=005FF9"></a>
