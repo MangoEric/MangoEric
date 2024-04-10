@@ -17,6 +17,7 @@
 ![React badge](https://img.shields.io/badge/-React-%23F7DF1E?style=flat-square&logo=react&logoColor=white&color=61DAFB)
 ![NEXTJS badge](https://img.shields.io/badge/-NEXT.js-%23F7DF1E?style=flat-square&logo=nextdotjs&logoColor=white&color=000000)
 ![Vue badge](https://img.shields.io/badge/-Vue.js-%23F7DF1E?style=flat-square&logo=vuedotjs&logoColor=white&color=4FC08D)
+![nestjs badge](https://img.shields.io/badge/-Nest.js-%23F7DF1E?style=flat-square&logo=nestjs&logoColor=white&color=E0234E)
 ![Phoenix Framework badge](https://img.shields.io/badge/-Phoenix-%23F7DF1E?style=flat-square&logo=phoenixframework&logoColor=white&color=FD4F00)
 
 ### Contact Me 📮
