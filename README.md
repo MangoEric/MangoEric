@@ -1,8 +1,6 @@
   
-### Hi I'm Eric
+## Hi I'm Eric 👋
 
-<img src='./profile-3d-contrib/profile-night-view.svg' width='500px' align="right">
-  
 ### 📄 About Me
 
 <a href="https://mangoeric.dev/" target="_blank">🥭MangoEric.dev</a> <p/>
@@ -18,13 +16,15 @@
 </div>
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/-React-%23F7DF1E?style=flat&logo=react&logoColor=white&color=61DAFB" />
-  <img src="https://img.shields.io/badge/-NEXT.js-%23F7DF1E?style=flat&logo=nextdotjs&logoColor=white&color=000000" />
   <img src="https://img.shields.io/badge/-Vue.js-%23F7DF1E?style=flat&logo=vuedotjs&logoColor=white&color=4FC08D" />
 </div>
 <div style="display: flex;">
-  <img src="https://img.shields.io/badge/-Nest.js-%23F7DF1E?style=flat&logo=nestjs&logoColor=white&color=E0234E" />
+  <img src="https://img.shields.io/badge/-Node.js-%23F7DF1E?style=flat&logo=nodedotjs&logoColor=white&color=5FA04E" />
   <img src="https://img.shields.io/badge/-Phoenix-%23F7DF1E?style=flat&logo=phoenixframework&logoColor=white&color=FD4F00" />
 </div>
 
 ### Contact Me 📮
-<a href="mailto:jong@mangoeric.dev"><img src="https://img.shields.io/badge/Email-jong@mangoeric.dev-%23F7DF1E?style=social&logoColor=005FF9&color=005FF9" ></a>
+<div style="display: flex;">
+  <a href="mailto:fgh1937@yahoo.com"><img src="https://img.shields.io/badge/Email-fgh1937@yahoo.com-%23F7DF1E?style=social&logoColor=005FF9&color=005FF9" ></a>
+  <a href=https://www.instagram.com/jong._.0/" target="_blank"><img src="https://img.shields.io/badge/-Jong._.0-%23F7DF1E?style=flat&logo=instagram&logoColor=white&color=E4405F" /></a>
+</div>
