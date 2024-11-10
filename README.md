@@ -10,12 +10,13 @@
 ### 🔥 Now Studying ..
 
 <div style="display: flex;">
-  <img src="https://img.shields.io/badge/-Elixir-%23F7DF1E?style=flat&logo=elixir&logoColor=white&color=4B275F" />
+  <img src="https://img.shields.io/badge/-TypeScript-%23F7DF1E?style=flat&logo=typescript&logoColor=white&color=3178C6" />
   <img src="https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat&logo=javascript&logoColor=white&color=f2df3a" />
-  <img src="https://img.shields.io/badge/-TypeScript-%23F7DF1E?style=flat&logo=typescript&logoColor=white&color=3178C6" />  
+  <img src="https://img.shields.io/badge/-Elixir-%23F7DF1E?style=flat&logo=elixir&logoColor=white&color=4B275F" />
 </div>
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/-React-%23F7DF1E?style=flat&logo=react&logoColor=white&color=61DAFB" />
+  <img src="https://img.shields.io/badge/-Next.js-%23F7DF1E?style=flat&logo=nextdotjs&logoColor=white&color=000000" />
   <img src="https://img.shields.io/badge/-Vue.js-%23F7DF1E?style=flat&logo=vuedotjs&logoColor=white&color=4FC08D" />
 </div>
 <div style="display: flex;">
