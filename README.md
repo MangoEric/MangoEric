@@ -24,6 +24,10 @@
   <img src="https://img.shields.io/badge/-Node.js-%23F7DF1E?style=flat&logo=nodedotjs&logoColor=white&color=5FA04E" />
 </div>
 
+### 🔥 Current Projects
+
+<a href="https://devpost.com/software/doculink"><img src="https://img.shields.io/badge/-DocuLink-%23F7DF1E?style=flat&logo=atlassian&logoColor=white&color=0052CC" /></a>
+
 ### Contact Me 📮
 <div style="display: flex;">
   <a href="mailto:fgh1937@yahoo.com"><img src="https://img.shields.io/badge/Email-fgh1937@yahoo.com-%23F7DF1E?style=social&logoColor=005FF9&color=005FF9" ></a>
