@@ -1,4 +1,3 @@
-  
 ## Hi I'm Eric 👋
 
 ### 📄 About Me
@@ -10,7 +9,7 @@
 ### 🔥 Now Studying ..
 
 <div style="display: flex;">
-  <img src="https://img.shields.io/badge/-TypeScript-%23F7DF1E?style=flat&logo=typescript&logoColor=white&color=3178C6" />
+  <img src="https://img.shields.io/badge/-Rust-%23F7DF1E?style=flat&logo=rust&logoColor=white&color=000000" />
   <img src="https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat&logo=javascript&logoColor=white&color=f2df3a" />
   <img src="https://img.shields.io/badge/-Elixir-%23F7DF1E?style=flat&logo=elixir&logoColor=white&color=4B275F" />
 </div>
@@ -31,5 +30,4 @@
 ### Contact Me 📮
 <div style="display: flex;">
   <a href="mailto:fgh1937@yahoo.com"><img src="https://img.shields.io/badge/Email-fgh1937@yahoo.com-%23F7DF1E?style=social&logoColor=005FF9&color=005FF9" ></a>
-  <a href=https://www.instagram.com/jong._.0/" target="_blank"><img src="https://img.shields.io/badge/-Jong._.0-%23F7DF1E?style=flat&logo=instagram&logoColor=white&color=E4405F" /></a>
 </div>
